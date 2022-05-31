@@ -1,0 +1,83 @@
+.sb {
+  border: 1px solid rgb(234, 229, 229);
+}
+
+.underline {
+  border-bottom: 5px solid #4d94e4;
+  width: 70px;
+}
+
+.type-style {
+  background-color: #d3d7e7;
+  color: #575c6a;
+  width: 80%;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.info-text {
+  font-size: 22px;
+  line-height: 15px;
+  letter-spacing: normal;
+  font-weight: 200;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.apply-btn {
+  border: 1px solid #4d94e4;
+  border-radius: 25px;
+  color: #4d94e4;
+  padding: 8px 8px 8px 8px;
+  text-decoration: none;
+  font-weight: 200;
+  width: 155px;
+  margin-left: 4rem;
+  justify-content: flex-end;
+}
+
+.apply-btn:hover {
+  background-color: #4d94e4;
+  color: white;
+}
+
+.detail-apply-btn {
+  padding: 5px 70px 5px 70px !important;
+  border: 1px solid #4d94e4;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: 700;
+  background-color: #4d94e4;
+  color: white;
+}
+
+.detail-apply-btn:hover {
+  background-color: whitesmoke;
+  color: #4d94e4;
+}
+
+.view-btn {
+  font-weight: 700;
+  color: #575c6a;
+  margin-left:5rem;
+}
+
+.search-style {
+  width: 100%;
+  font-size: 20px;
+  line-height: 35px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
+
+.nav-style {
+  background-color: #f4f4f4;
+  border: none;
+}
+
+.departmenttitle{
+  font-family: "Monstserrat", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  line-height:11px;
+}
